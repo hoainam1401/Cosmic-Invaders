@@ -77,13 +77,6 @@ cosmic-invaders/
     └── space_invaders.ttf
 ```
 
-## Future Improvements
-
-- Adding high score system
-- Implementing different weapon types
-- Adding boss battles
-- Creating difficulty levels
-
 ## Credits
 
 - Game developed with Python and Pygame
